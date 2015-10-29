@@ -13,7 +13,7 @@ TPA2016_SETUP_R_FAULT	= 0x10
 TPA2016_SETUP_L_FAULT	= 0x08
 
 TPA2016_GAIN            = 0x5
-TPA2016_AGC_OFF			= 0x00
+TPA2016_AGC_OFF         = 0x00
 
 # def setup():
 # Set up the speakers
